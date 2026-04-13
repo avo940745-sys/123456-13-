@@ -215,7 +215,7 @@ void main()
 		Seg_Proc();
 		Led_Proc();
 		Get_temperatrue();
-		
+		Get_time();
 	}
 
 }
