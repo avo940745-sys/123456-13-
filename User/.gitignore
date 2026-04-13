@@ -1,0 +1,11 @@
+# Keil项目忽略文件
+*.uvprojx
+*.uvguix.*
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+**/Object/
+**/Listings/
